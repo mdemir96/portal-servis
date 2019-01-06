@@ -24,3 +24,7 @@
 
 Modülün backend bölümünün görüntüsü bu şekildedir. Bu bölüm admin, yönetici gibi yetkili kişilerin ulaşabileceği kısımdır.Bu bölümde
 yönetici kişi Servis ekleyebilir ve Servislerin iletişim numaralarını ekleyebilir.
+
+![asdasd](https://user-images.githubusercontent.com/32520318/50741371-76e36680-120d-11e9-8833-abb9a4e546ed.png)
+
+Bu bölümde yönetici kişi servislerin güzergahı üzerinde olabilecek tüm durakları ekleyebilecektir.
