@@ -28,3 +28,8 @@ yönetici kişi Servis ekleyebilir ve Servislerin iletişim numaralarını ekley
 ![asdasd](https://user-images.githubusercontent.com/32520318/50741371-76e36680-120d-11e9-8833-abb9a4e546ed.png)
 
 Bu bölümde yönetici kişi servislerin güzergahı üzerinde olabilecek tüm durakları ekleyebilecektir.
+
+![seferler](https://user-images.githubusercontent.com/32520318/50741417-ea857380-120d-11e9-835d-d61834d03742.png)
+
+
+Bu bölümde yönetici kişi servisler için seferler ekleyebilir saatlerini belirleyebilir.
