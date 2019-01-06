@@ -26,14 +26,14 @@
 Modülün backend bölümünün görüntüsü bu şekildedir. Bu bölüm admin, yönetici gibi yetkili kişilerin ulaşabileceği kısımdır.Bu bölümde
 yönetici kişi Servis ekleyebilir ve Servislerin iletişim numaralarını ekleyebilir.
 
-### Duraklar
+### Duraklar http://portal.kouosl/admin/servis/durak
 ![asdasd](https://user-images.githubusercontent.com/32520318/50741371-76e36680-120d-11e9-8833-abb9a4e546ed.png)
 
-Bu bölümde yönetici kişi servislerin güzergahı üzerinde olabilecek tüm durakları ekleyebilecektir.http://portal.kouosl/admin/servis/durak
+Bu bölümde yönetici kişi servislerin güzergahı üzerinde olabilecek tüm durakları ekleyebilecektir.
 
-### Seferler
+### Seferler http://portal.kouosl/admin/servis/seferler
 ![seferler](https://user-images.githubusercontent.com/32520318/50741417-ea857380-120d-11e9-835d-d61834d03742.png)
 
 
 Bu bölümde yönetici kişi servisler için seferler ekleyebilir saatlerini belirleyebilir. 
-http://portal.kouosl/admin/servis/seferler
+
