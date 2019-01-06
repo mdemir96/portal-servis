@@ -20,18 +20,18 @@
 
 #   Modülün Detayları 
 
-###Servis
+### Servis
 ![servis](https://user-images.githubusercontent.com/32520318/50741283-20c1f380-120c-11e9-82e0-854e4c192bc1.png)
 
 Modülün backend bölümünün görüntüsü bu şekildedir. Bu bölüm admin, yönetici gibi yetkili kişilerin ulaşabileceği kısımdır.Bu bölümde
 yönetici kişi Servis ekleyebilir ve Servislerin iletişim numaralarını ekleyebilir.
 
-###Duraklar
+### Duraklar
 ![asdasd](https://user-images.githubusercontent.com/32520318/50741371-76e36680-120d-11e9-8833-abb9a4e546ed.png)
 
 Bu bölümde yönetici kişi servislerin güzergahı üzerinde olabilecek tüm durakları ekleyebilecektir.
 
-###Seferler
+### Seferler
 ![seferler](https://user-images.githubusercontent.com/32520318/50741417-ea857380-120d-11e9-835d-d61834d03742.png)
 
 
