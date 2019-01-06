@@ -18,4 +18,9 @@
  Bu dört adımı uyguladığınızda migrationdaki tablolar veri tabanına eklenecek ve github daki servis modülü portal/vendor/kouosl dizininin altına portal-servis olarak oluşarak  portal.kouosl adresinden erişilebilir hale gelecektir. 
   Erişmek istediğiniz sayfaya  http://portal.kouosl/admin/servis/servis (servis modülünün servis bölümüne backend tarafından ulaşmak için) şeklinde erişebilirsiniz.
 
+#   Modülün Detayları 
+
 ![servis](https://user-images.githubusercontent.com/32520318/50741283-20c1f380-120c-11e9-82e0-854e4c192bc1.png)
+
+Modülün backend bölümünün görüntüsü bu şekildedir. Bu bölüm admin, yönetici gibi yetkili kişilerin ulaşabileceği kısımdır.Bu bölümde
+yönetici kişi Servis ekleyebilir ve Servislerin iletişim numaralarını ekleyebilir.
